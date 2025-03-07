@@ -1,5 +1,4 @@
 2_ElasticNet.ipynb
-3_DecissionTree.ipynb
 4_KNN.ipynb
 case1Data.csv
 case1Data_Xnew.csv
@@ -8,3 +7,5 @@ df_NOT_1hot.csv
 functions.py
 per_new.ipynb
 w5_ex2_solution.ipynb
+df_1hot_nonnorm.csv
+df_without_outliers.csv
